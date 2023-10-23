@@ -12,13 +12,22 @@ I'm MD.Faruk, a passionate web developer with a strong interest in creating inno
 
 Here are some of the key projects in this repository:
 
-1. **Project 1**
-   - Description: Briefly describe the project and its main features.
-   - Technologies Used: List the key technologies and tools used.
+**E-Learner spoken english learning webApp(MERN)(Team Project)**
+Admin Password and Instructor password will get github Readme.md File 
+Implemented Dashboard for student,admin ,and instructor with Jwt authorization.
+Student can enroll classes ,pay by ssl commerce,manage payment history ,delete classes ,
+Video call ,dictionary,Translator  voice recognition So More
+Live Link, github client ,github server
 
-2. **Project 2**
-   - Description: Briefly describe the project and its main features.
-   - Technologies Used: List the key technologies and tools used.
+
+ 2.**Pro Academy Sports Training Website (MERN)**
+Admin Password and Instructor password will get github Readme.md File 
+Implemented Dashboard for student,admin ,and instructor with Jwt authorization.
+Student can enroll classes ,pay by stripe ,manage payment history ,delete classes ,
+Instructors can add classes,manage classes, update classes etc.
+Admin can manage users, approve or deny classes and send feedback to instructors.
+Live Link, github client, github server.
+
 
 ## Contributions
 
@@ -29,7 +38,7 @@ I actively contribute to open-source projects and collaborate with the GitHub co
 You can reach out to me through the following channels:
 
 - Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/md-omar-faruk-3b89a3190)]
+- GitHub: [[Your GitHub Profile](https://github.com/Faruks23)]
 
 Feel free to explore my projects and get in touch if you have any questions or would like to collaborate. Thanks for visiting!
