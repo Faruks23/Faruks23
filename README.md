@@ -37,8 +37,8 @@ I actively contribute to open-source projects and collaborate with the GitHub co
 
 You can reach out to me through the following channels:
 
-- Email: [Your Email]
-- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/md-omar-faruk-3b89a3190)]
-- GitHub: [[Your GitHub Profile](https://github.com/Faruks23)]
+- Email: [mdfaruksp2@gmail.com]
+- LinkedIn: [(https://www.linkedin.com/in/md-omar-faruk-3b89a3190)]
+- GitHub: [(https://github.com/Faruks23)]
 
 Feel free to explore my projects and get in touch if you have any questions or would like to collaborate. Thanks for visiting!
